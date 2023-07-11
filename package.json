@@ -1,0 +1,19 @@
+{
+  "name": "library-management-system-team-b47",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeshr28/Library-Management-System-Team-B47.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayeshr28/Library-Management-System-Team-B47/issues"
+  },
+  "homepage": "https://github.com/jayeshr28/Library-Management-System-Team-B47#readme"
+}
